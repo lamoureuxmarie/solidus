@@ -97,3 +97,6 @@ group :development, :test do
   gem "rubocop-rails", "~> 2.3"
   gem "rubocop-rspec", "~> 2.0"
 end
+
+# Customizations gem
+gem 'deface'
